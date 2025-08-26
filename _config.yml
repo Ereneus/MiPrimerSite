@@ -1,0 +1,41 @@
+title: "Mi primer pagina"
+description: ""
+url: "https://github.com/Ereneus" 
+baseurl: "/MiPrimerSite" 
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+author: "Your Name"
+logo: "/assets/logo.png"
+social:
+  name: "Your Name"
+  links:
+    - "https://github.com/Ereneus"
+    - "https://github.com/Ereneus"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+
+include:
+  - _redirects
+
+markdown: kramdown
+highlighter: rouge
+
+sass:
+  style: compressed
+
+paginate: 10
+paginate_path: "/page:num/"
+
+timezone: America/New_York
