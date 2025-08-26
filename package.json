@@ -1,0 +1,33 @@
+{
+  "name": "Mi Primer site",
+  "version": "1.0.0",
+  "description": "",
+  "master": "index.html",
+  "scripts": {
+    "setup": "node setup.js",
+    "dev": "python -m http.server 8000 || python3 -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "test": "echo 'No tests specified'",
+    "start": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ereneus/MiPrimerSite.git"
+  },
+  "keywords": [
+    "github-pages",
+    "template",
+    "landing-page",
+    "tailwindcss",
+    "responsive",
+    "dark-mode",
+    "repository",
+    "showcase",
+    "developer-tools",
+    "open-source"
+  ],
+  "homepage": "https://ereneus.github.io/MiPrimerSite/",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
