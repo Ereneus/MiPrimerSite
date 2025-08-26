@@ -1,0 +1,6 @@
+![Camara](https://github.com/user-attachments/assets/e0c36d1c-1bb8-49b1-b3af-d3bdcc720f2a)![Uploadin[Index.html](https://github.com/user-attachments/files/21980995/Index.html)![Auriculares](https://github.com/user-attachments/assets/7e27d4da-b91f-49c4-a263-634806f64e79)
+![Teclado](https://github.com/user-attachments/assets/e50807ab-8f7d-48d0-aa12-56886b3894fe)
+![smartwach](https://github.com/user-attachments/assets/641a33a1-964c-4932-af7e-9929cc94c21f)
+![mochilaAntirrobo](https://github.com/user-attachments/assets/b8421cee-8206-4c6d-8837-81fb6ffc567c)
+![laptop](https://github.com/user-attachments/assets/b0119c90-e72a-4e76-b049-b8a4b1ccf6ae)
+g Camara.jpg…]()
